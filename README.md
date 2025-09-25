@@ -69,13 +69,9 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 🎥 Demo Video
+## 🎬 Demo
 
-
-Watch the demo of the AI Text Summarizer in action:
-
-[▶️ Click to view demo]((https://raw.githubusercontent.com/Bhoomika08-MAY/Source-hub-IT-2/main/assets/demo.mp4))
-
+📥 [Click to watch the demo](https://raw.githubusercontent.com/Bhoomika08-MAY/Source-hub-IT-2/main/assets/demo.mp4)
 ---
 
 
