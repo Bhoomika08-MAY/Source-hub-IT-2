@@ -71,7 +71,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 🎥 Demo Video
 
-You can download and view the demo video here: [Download demo.mp4](assets/demo.mp4)
+You can download and view the demo video here: [Download demo.mp4](D:\My Projects\TextSummarizer\assets\demo.mp4)
 
 ---
 
